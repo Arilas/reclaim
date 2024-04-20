@@ -1,0 +1,13 @@
+{
+  "name": "@reclaim/user",
+  "version": "0.0.1",
+  "description": "Reclaim User",
+  "type": "module",
+  "author": {
+    "name": "Oleksandr Hanzha",
+    "email": "alex@granted.name"
+  },
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
